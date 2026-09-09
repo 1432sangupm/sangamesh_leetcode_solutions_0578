@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/1432sangupm/sangamesh_leetcode_solutions_0578/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/1432sangupm/sangamesh_leetcode_solutions_0578/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
