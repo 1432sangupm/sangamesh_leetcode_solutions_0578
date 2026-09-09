@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/1432sangupm/sangamesh_leetcode_solutions_0578/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/1432sangupm/sangamesh_leetcode_solutions_0578/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/1432sangupm/sangamesh_leetcode_solutions_0578/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/1432sangupm/sangamesh_leetcode_solutions_0578/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/1432sangupm/sangamesh_leetcode_solutions_0578/tree/master/0069-sqrtx) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1432sangupm/sangamesh_leetcode_solutions_0578/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/1432sangupm/sangamesh_leetcode_solutions_0578/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
