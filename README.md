@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/1432sangupm/sangamesh_leetcode_solutions_0578/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1432sangupm/sangamesh_leetcode_solutions_0578/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/1432sangupm/sangamesh_leetcode_solutions_0578/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/1432sangupm/sangamesh_leetcode_solutions_0578/tree/master/0120-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/1432sangupm/sangamesh_leetcode_solutions_0578/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/1432sangupm/sangamesh_leetcode_solutions_0578/tree/master/0120-triangle) |
 ## Two Pointers
 |  |
 | ------- |
