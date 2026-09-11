@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/1432sangupm/sangamesh_leetcode_solutions_0578/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/1432sangupm/sangamesh_leetcode_solutions_0578/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/1432sangupm/sangamesh_leetcode_solutions_0578/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/1432sangupm/sangamesh_leetcode_solutions_0578/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/1432sangupm/sangamesh_leetcode_solutions_0578/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/1432sangupm/sangamesh_leetcode_solutions_0578/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
